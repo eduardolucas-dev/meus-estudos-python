@@ -1,2 +1,2 @@
-Meus estudos de Pogramação.
+Meus estudos de Pogramação,
 Java Script e Python
