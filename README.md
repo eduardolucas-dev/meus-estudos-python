@@ -1,2 +1,2 @@
-Meus estudos de Pogramação,
-Java Script e Python.
+Meus estudos em Programação
+JavaScript e Python
